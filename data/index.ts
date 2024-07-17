@@ -214,17 +214,17 @@ export const socialMedia = [
   {
     name: "GitHub",
     img: "/git.svg",
-    link: "https://github.com/adnanSadiqsb/",
+    link: "https://github.com/BILALRAZA9",
   },
   {
     name: "Twitter",
     img: "/upwork2.png",
-    link: "https://www.upwork.com/freelancers/~0141e9a1ddc516aba0?mp_source=share",
+    link: "https://www.upwork.com/freelancers/~01a3723992753e172c",
   },
   {
     name: "LinkedIn",
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/adnansadiq530",
+    link: "https://www.linkedin.com/in/bilal-raza-642a0725b/",
   },
 ] as const;
 
