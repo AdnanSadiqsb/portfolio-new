@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 export const links = {
   sourceCode: "https://github.com/sanidhyy/next-portfolio",
   ownerName: "Adnan Sadiq",
+  
   ownerEmail: "adnansadiq.tech@gmail.com",
 } as const;
 
